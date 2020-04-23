@@ -1,0 +1,6 @@
+Data Pemantauan Covid19 wilayah DKI Jakarta
+per 23-April-2020 17:58:03
+Faizal alafarizi/171011402520
+
+Positif | Dirawat | Sembuh | Meninggal
+2902 | 1769 | 206 | 25706 | 257
